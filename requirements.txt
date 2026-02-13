@@ -1,0 +1,8 @@
+# requirements.txt
+tweepy
+requests
+selenium
+webdriver-manager
+privatebinapi
+praw
+python-dotenv
