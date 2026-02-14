@@ -195,3 +195,102 @@ RESULT_URL: https://nctz65sc97-fjgsv.wordpress.com/2026/02/13/something-interest
 ====================================================
 
 "
+2026-02-14T06:44:36Z,Github Gists [1],admin,True,0,,"
+====================================================
+GitHub Gist created successfully.
+RESULT_URL: https://gist.github.com/nets-pass/e2a687db893437e92b756f5d9c932414
+====================================================
+
+"
+2026-02-14T06:44:36Z,Github Gists [2],deploy01,False,1,"Traceback (most recent call last):
+  File ""/home/runner/work/honey_advert_tool_automated/honey_advert_tool_automated/publisher_scripts/github_gist_2.py"", line 39, in <module>
+    r.raise_for_status()
+  File ""/opt/hostedtoolcache/Python/3.12.12/x64/lib/python3.12/site-packages/requests/models.py"", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 403 Client Error: Forbidden for url: https://api.github.com/gists
+","status: 403
+response: {
+  ""message"": ""Sorry. Your account was suspended"",
+  ""documentation_url"": ""https://docs.github.com/rest"",
+  ""status"": ""403""
+}
+
+"
+2026-02-14T06:44:38Z,Github Site Post,ops.mike,True,0,,"
+====================================================
+GitHub Pages post created successfully.
+RESULT_URL: backdoor-echo.net/posts/2026-02-14-064436-post.html
+====================================================
+
+"
+2026-02-14T06:44:38Z,Gitlab Snippets [1],backup_srv,False,1,"Error 403: {""message"":""403 Forbidden - Your account has been blocked.""}
+",
+2026-02-14T06:44:38Z,Gitlab Snippets [2],sys.maria,False,1,"Error 403: {""message"":""403 Forbidden - Your account has been blocked.""}
+",
+2026-02-14T06:44:39Z,Hastebin Post,webadmin,True,0,,"
+====================================================
+Hastebin post created successfully.
+RESULT_URL: https://hastebin.com/elogugizox
+Raw URL : https://hastebin.com/raw/elogugizox
+====================================================
+
+"
+2026-02-14T06:44:53Z,Notepad.link post,alex_ops,True,0,,"
+====================================================
+Notepad.link post created successfully.
+RESULT_URL: https://notepad.link/fEIcu
+====================================================
+
+"
+2026-02-14T06:44:54Z,Pastebin post [1],svc_api,True,0,,"
+====================================================
+Pastebin post created successfully.
+RESULT_URL: https://pastebin.com/iTJng9DH
+====================================================
+
+"
+2026-02-14T06:44:54Z,Pastebin post [2],ops_backup,True,0,,"
+====================================================
+Pastebin post created successfully.
+RESULT_URL: https://pastebin.com/KGhn4DvL
+====================================================
+
+"
+2026-02-14T06:44:58Z,Privatebin post,staging,True,0,,"
+====================================================
+Privatebin post created successfully.
+RESULT_URL: https://privatebin.net/?cb86f1b5a4ebb4ba#HYw4L6ytBEk5ayfYh7K6MGKkfnSJC3FzG8QnfdN4ugPp
+Delete Token: f830719af72ab688c42521b3834e28df76400c90305ccbbccf4bfe2769269086
+====================================================
+
+"
+2026-02-14T06:44:58Z,Reddit r/test,it.admin,False,1,"Traceback (most recent call last):
+  File ""/home/runner/work/honey_advert_tool_automated/honey_advert_tool_automated/publisher_scripts/reddit_post_1.py"", line 34, in <module>
+    post = subreddit.submit(
+           ^^^^^^^^^^^^^^^^^
+  File ""/opt/hostedtoolcache/Python/3.12.12/x64/lib/python3.12/site-packages/praw/util/deprecate_args.py"", line 46, in wrapped
+    return func(**dict(zip(_old_args, args)), **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/opt/hostedtoolcache... [truncated]",
+2026-02-14T06:44:59Z,Telegram bot,john.smith,True,0,,"
+====================================================
+Telegram post created successfully.
+Check on @ https://t.me/hacked_ip_pwd
+====================================================
+
+"
+2026-02-14T06:44:59Z,Twitter Post,maria-garcia,False,1,"Traceback (most recent call last):
+  File ""/home/runner/work/honey_advert_tool_automated/honey_advert_tool_automated/publisher_scripts/twitter_post.py"", line 26, in <module>
+    resp = client.create_tweet(text=POST_text, user_auth=True)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/opt/hostedtoolcache/Python/3.12.12/x64/lib/python3.12/site-packages/tweepy/client.py"", line 845, in create_tweet
+    return self._make_request(
+           ^^^^^^^^^^^^^^^^^^^
+  File ""/opt/hos... [truncated]","X API error body: <!DOCTYPE html><html lang=""en-US""><head><title>Just a moment...</title><meta http-equiv=""Content-Type"" content=""text/html; charset=UTF-8""><meta http-equiv=""X-UA-Compatible"" content=""IE=Edge""><meta name=""robots"" content=""noindex,nofollow""><meta name=""viewport"" content=""width=device-width,initial-scale=1""><style>*{box-sizing:border-box;margin:0;padding:0}html{line-height:1.15;-webkit-text-size-adjust:100%;color:#313131;font-family:system-ui,-apple-system,BlinkMacSystemFont,""Segoe... [truncated]"
+2026-02-14T06:45:06Z,Wordpress Site Post,alex.brown,True,0,,"
+====================================================
+Wordpress post created successfully.
+RESULT_URL: https://nctz65sc97-fjgsv.wordpress.com/2026/02/14/something-interesting-with-some-pwd-and-ips-91/
+====================================================
+
+"
