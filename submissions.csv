@@ -1177,3 +1177,101 @@ RESULT_URL: https://nctz65sc97-fjgsv.wordpress.com/2026/02/18/something-interest
 ====================================================
 
 "
+2026-02-19T07:00:16Z,Github Gists [1],buildbot,True,0,,"
+====================================================
+GitHub Gist created successfully.
+RESULT_URL: https://gist.github.com/nets-pass/d554ab78d1ebcef18f373678afa9ccb6
+====================================================
+
+"
+2026-02-19T07:00:17Z,Github Gists [2],release,False,1,"Traceback (most recent call last):
+  File ""/home/runner/work/honey_advert_tool_automated/honey_advert_tool_automated/publisher_scripts/github_gist_2.py"", line 39, in <module>
+    r.raise_for_status()
+  File ""/opt/hostedtoolcache/Python/3.12.12/x64/lib/python3.12/site-packages/requests/models.py"", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 403 Client Error: Forbidden for url: https://api.github.com/gists
+","status: 403
+response: {
+  ""message"": ""Sorry. Your account was suspended"",
+  ""documentation_url"": ""https://docs.github.com/rest"",
+  ""status"": ""403""
+}
+
+"
+2026-02-19T07:00:18Z,Github Site Post,log_admin,True,0,,"
+====================================================
+GitHub Pages post created successfully.
+RESULT_URL: backdoor-echo.net/posts/2026-02-19-070017-post.html
+====================================================
+
+"
+2026-02-19T07:00:19Z,Gitlab Snippets [1],netops,False,1,"Error 403: {""message"":""403 Forbidden - Your account has been blocked.""}
+",
+2026-02-19T07:00:19Z,Gitlab Snippets [2],db_user,False,1,"Error 403: {""message"":""403 Forbidden - Your account has been blocked.""}
+",
+2026-02-19T07:00:20Z,Hastebin Post,cloudops,True,0,,"
+====================================================
+Hastebin post created successfully.
+RESULT_URL: https://hastebin.com/oruzayoxes
+Raw URL : https://hastebin.com/raw/oruzayoxes
+====================================================
+
+"
+2026-02-19T07:00:32Z,Notepad.link post,maint_user,True,0,,"
+====================================================
+Notepad.link post created successfully.
+RESULT_URL: https://notepad.link/1Xw7Z
+====================================================
+
+"
+2026-02-19T07:00:32Z,Pastebin post [1],svc_api,True,0,,"
+====================================================
+Pastebin post created successfully.
+RESULT_URL: https://pastebin.com/8q7N08eZ
+====================================================
+
+"
+2026-02-19T07:00:33Z,Pastebin post [2],ops_backup,True,0,,"
+====================================================
+Pastebin post created successfully.
+RESULT_URL: https://pastebin.com/gBHuB3CG
+====================================================
+
+"
+2026-02-19T07:00:40Z,Privatebin post,staging,True,0,,"
+====================================================
+Privatebin post created successfully.
+RESULT_URL: https://privatebin.net/?b10ae8ba0bfabf5f#62RgDXyekpsFhob6v6bFxJH7yTqXBXcbbU8htzRnNhCB
+Delete Token: 3b4bcd233b3e3efe7b73c1e3d672c260629c47da3806137ac588d45b82220913
+====================================================
+
+"
+2026-02-19T07:00:40Z,Reddit r/test,it.admin,False,1,"Traceback (most recent call last):
+  File ""/home/runner/work/honey_advert_tool_automated/honey_advert_tool_automated/publisher_scripts/reddit_post_1.py"", line 34, in <module>
+    post = subreddit.submit(
+           ^^^^^^^^^^^^^^^^^
+  File ""/opt/hostedtoolcache/Python/3.12.12/x64/lib/python3.12/site-packages/praw/util/deprecate_args.py"", line 46, in wrapped
+    return func(**dict(zip(_old_args, args)), **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File ""/opt/hostedtoolcache... [truncated]",
+2026-02-19T07:00:41Z,Telegram bot,john.smith,True,0,,"
+====================================================
+Telegram post created successfully.
+Check on @ https://t.me/hacked_ip_pwd
+====================================================
+
+"
+2026-02-19T07:00:41Z,Twitter Post,maria-garcia,True,0,,"
+====================================================
+Twitter post created successfully.
+RESULT_URL: https://twitter.com/phil_ip_netdump/status/2024378590498845042
+====================================================
+
+"
+2026-02-19T07:00:50Z,Wordpress Site Post,alex.brown,True,0,,"
+====================================================
+Wordpress post created successfully.
+RESULT_URL: https://nctz65sc97-fjgsv.wordpress.com/2026/02/19/something-interesting-with-some-pwd-and-ips-101/
+====================================================
+
+"
