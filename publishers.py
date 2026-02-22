@@ -13,7 +13,7 @@ PY = sys.executable  # run child scripts with the same interpreter
 # Map GUI label -> script filename (relative to scripts_dir)
 SCRIPTS = {
     "Github Gists [1]": "github_gist_1.py",
-    "Github Gists [2]": "github_gist_2.py",
+    # "Github Gists [2]": "github_gist_2.py",
     "Gitlab Snippets [1]": "gitlab_snippet_1.py",
     "Gitlab Snippets [2]": "gitlab_snippet_2.py",
     "Hastebin Post": "hastebin_post.py",
@@ -21,8 +21,8 @@ SCRIPTS = {
     "Pastebin post [1]": "pastebin_post_1.py",
     "Pastebin post [2]": "pastebin_post_2.py",
     "Privatebin post": "privatebin_post.py",
-    "Reddit r/test": "reddit_post_1.py",
-  #  "Reddit r/Python": "reddit_post_2.py",
+    # "Reddit r/test": "reddit_post_1.py",
+    # "Reddit r/Python": "reddit_post_2.py",
     "Telegram bot": "telegram_bot.py",
     "Twitter Post": "twitter_post.py",
     "Wordpress Site Post": "wordpress_site_post_nullscan.py",

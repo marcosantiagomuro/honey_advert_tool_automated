@@ -6,7 +6,7 @@ sys.path.append(os.path.dirname(os.path.dirname(__file__)))
 from utils import need, make_seeded_demo_script
 
 
-TOKEN = need("GITLAB_API_SNIPPET_TOKEN_5")
+TOKEN = need("GITLAB_API_SNIPPET_TOKEN_7")
 
 GITLAB_URL = "https://gitlab.com"
 
